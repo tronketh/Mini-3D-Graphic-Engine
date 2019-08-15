@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Projects\C++\3DCube\3DCube-core\main.cpp(286,26): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  3DCube-core.vcxproj -> E:\Projects\C++\3DCube\Debug\3DCube-core.exe
